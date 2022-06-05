@@ -1,13 +1,10 @@
-# ide
 .idea
 .vscode
 
-# dependencies
 node_modules
 .pnp
 .pnp.js
 
-# misc
 .DS_Store
 .git*
 *.example
